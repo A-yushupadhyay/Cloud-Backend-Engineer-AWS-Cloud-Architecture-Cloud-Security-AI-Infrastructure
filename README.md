@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1D4ED8,100:7C3AED&height=230&section=header&text=Ayush%20Upadhyay&fontSize=52&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20Backend%20Engineer&descSize=20&descAlignY=60" alt="Ayush Upadhyay header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1D4ED8,100:7C3AED&height=230&section=header&text=Ayush%20Upadhyay&fontSize=52&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Cloud%20and%20Backend%20Engineer&descSize=20&descAlignY=60" alt="Ayush Upadhyay header" width="100%"/>
 
 <a href="https://github.com/A-yushupadhyay">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=AWS+Cloud+Architecture;Cloud+Infrastructure+Engineering;Cloud+Security+%26+DevSecOps;AI+Infrastructure+%26+Intelligent+Operations" alt="Typing animation: AWS Cloud Architecture, Cloud Infrastructure Engineering, Cloud Security and DevSecOps, AI Infrastructure and Intelligent Operations" />
