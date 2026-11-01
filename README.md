@@ -1618,7 +1618,7 @@ This is the only section that claims practical work. Add a row only when you can
 
 [![GitHub](https://img.shields.io/badge/GitHub-A--yushupadhyay-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-yushupadhyay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puskaru202@gmail.com)
 
 <br/>
 
